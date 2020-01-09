@@ -1,0 +1,16 @@
+{
+  "name": "mbox-parser",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "csv-writer": "^1.5.0",
+    "node-mbox": "^1.0.0",
+    "parse-email": "^1.0.0"
+  }
+}

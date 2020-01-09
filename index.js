@@ -107,13 +107,5 @@ mbox.on('message', function (msg) {
 // });
 
 // mbox.on('end', function () {
-    
-//                 // csvWriter.writeRecords(uniqueArray[uKey]) // returns a promise
-//                 // .then(() => {
-//                 //     console.log(`Done ${count++}`, unique.length);
-//                 // });
-//                 // console.log('to', to);
-//                 // console.log('From', from);
-    
 //     console.log('done reading mbox file', );
 // });
